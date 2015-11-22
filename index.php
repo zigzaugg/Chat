@@ -1,4 +1,16 @@
-<!doctype html>
+<html>
+
+<head>
+    <title>PHP Test</title>
+</head>
+
+<body>
+    <?php echo "<p>Hello World</p>" ?>
+</body>
+
+</html>
+
+<!--<!doctype html>
 <html>
  <head>
  <title>Socket.IO chat</title>
@@ -34,4 +46,4 @@
  });
  </script>
  </body>
-</html>
+</html>-->
